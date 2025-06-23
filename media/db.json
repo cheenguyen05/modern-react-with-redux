@@ -1,0 +1,105 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Dwight Goldner DVM",
+      "id": 2
+    },
+    {
+      "name": "Betsy Lynch",
+      "id": 3
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Oriental Bronze Fish",
+      "id": 17
+    },
+    {
+      "userId": 2,
+      "title": "Electronic Concrete Chicken",
+      "id": 20
+    },
+    {
+      "userId": 2,
+      "title": "Gorgeous Rubber Bacon",
+      "id": 21
+    },
+    {
+      "userId": 2,
+      "title": "Ergonomic Concrete Pizza",
+      "id": 22
+    },
+    {
+      "userId": 1,
+      "title": "Elegant Bronze Car",
+      "id": 23
+    },
+    {
+      "userId": 3,
+      "title": "Generic Rubber Mouse",
+      "id": 24
+    },
+    {
+      "userId": 3,
+      "title": "Modern Wooden Mouse",
+      "id": 25
+    },
+    {
+      "userId": 3,
+      "title": "Fantastic Metal Keyboard",
+      "id": 26
+    },
+    {
+      "userId": 1,
+      "title": "Oriental Plastic Mouse",
+      "id": 27
+    },
+    {
+      "userId": 2,
+      "title": "Oriental Granite Shoes",
+      "id": 28
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 20,
+      "url": "https://loremflickr.com/150/150/abstract?lock=78746",
+      "id": 1
+    },
+    {
+      "albumId": 20,
+      "url": "https://loremflickr.com/150/150/abstract?lock=93878",
+      "id": 2
+    },
+    {
+      "albumId": 17,
+      "url": "https://picsum.photos/seed/0.5805301171438607/150/150",
+      "id": 3
+    },
+    {
+      "albumId": 17,
+      "url": "https://picsum.photos/seed/0.2195104312921573/150/150",
+      "id": 4
+    },
+    {
+      "albumId": 17,
+      "url": "https://picsum.photos/seed/0.21610396830582934/150/150",
+      "id": 5
+    },
+    {
+      "albumId": 23,
+      "url": "https://picsum.photos/seed/0.7668598414974319/150/150",
+      "id": 6
+    },
+    {
+      "albumId": 23,
+      "url": "https://picsum.photos/seed/0.45549626049199543/150/150",
+      "id": 7
+    }
+  ]
+}
